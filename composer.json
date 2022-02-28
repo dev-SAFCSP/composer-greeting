@@ -1,0 +1,17 @@
+{
+    "name": "lam/composer-greeting",
+    "description": "a package to greet php devs.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lam\\ComposerGreeting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lam",
+            "email": "l.s.alqahtani@safcsp.org"
+        }
+    ],
+    "require": {}
+}
