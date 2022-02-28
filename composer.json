@@ -1,16 +1,16 @@
 {
-    "name": "lam/composer-greeting",
+    "name": "safcsp-dev/composer-greeting",
     "description": "a package to greet php devs.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lam\\ComposerGreeting\\": "src/"
+            "SafcspDev\\ComposerGreeting\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "lam",
-            "email": "l.s.alqahtani@safcsp.org"
+            "name": "safcsp-dev",
+            "email": "l.s.alqahtani@safcsp.org.sa"
         }
     ],
     "require": {}
